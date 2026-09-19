@@ -77,7 +77,7 @@ A full-stack web application for listing, browsing, and managing rental properti
 - **Topics covered:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Recursion, and Dynamic Programming
 - Currently working on more advanced problems, especially Dynamic Programming and Graphs
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/shantanu_02_/">
   <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
 </a>
 
@@ -109,12 +109,12 @@ A full-stack web application for listing, browsing, and managing rental properti
   <a href="https://github.com/shantanu-patil-02">
     <img src="https://img.shields.io/badge/GitHub-shantanu--patil--02-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/shantanu-sanjay-patil/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://leetcode.com/u/shantanu_02_/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+</a>
 </p>
 
 ---
