@@ -10,7 +10,7 @@ I build practical, user-focused web applications with the MERN stack and am lear
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-2563eb?style=flat-square" alt="B.Tech Computer Science" />
   <img src="https://img.shields.io/badge/CGPA-9.0-16a34a?style=flat-square" alt="CGPA 9.0" />
   <img src="https://img.shields.io/badge/Stack-MERN-0ea5e9?style=flat-square" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/DSA-90%2B%20Problems-f59e0b?style=flat-square" alt="150+ DSA Problems" />
+  <img src="https://img.shields.io/badge/DSA-150%2B%20Problems-f59e0b?style=flat-square" alt="150+ DSA Problems" />
 </p>
 
 <a href="https://github.com/shantanu-patil-02">
