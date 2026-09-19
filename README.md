@@ -96,18 +96,7 @@ A full-stack web application for listing, browsing, and managing rental properti
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shantanu-patil-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-patil-02&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=shantanu-patil-02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 
 
