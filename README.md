@@ -10,7 +10,7 @@ I build practical, user-focused web applications with the MERN stack and am lear
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-2563eb?style=flat-square" alt="B.Tech Computer Science" />
   <img src="https://img.shields.io/badge/CGPA-9.0-16a34a?style=flat-square" alt="CGPA 9.0" />
   <img src="https://img.shields.io/badge/Stack-MERN-0ea5e9?style=flat-square" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/DSA-90%2B%20Problems-f59e0b?style=flat-square" alt="90+ DSA Problems" />
+  <img src="https://img.shields.io/badge/DSA-90%2B%20Problems-f59e0b?style=flat-square" alt="150+ DSA Problems" />
 </p>
 
 <a href="https://github.com/shantanu-patil-02">
@@ -73,7 +73,7 @@ A full-stack web application for listing, browsing, and managing rental properti
 
 ## DSA & Problem Solving
 
-- **90+ problems solved**, with **Java** as my primary language for DSA
+- **150+ problems solved**, with **Java** as my primary language for DSA
 - **Topics covered:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Recursion, and Dynamic Programming
 - Currently working on more advanced problems, especially Dynamic Programming and Graphs
 
@@ -109,15 +109,8 @@ A full-stack web application for listing, browsing, and managing rental properti
 
 </div>
 
-### Contribution Activity
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanu-patil-02&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
----
 
 ## Connect With Me
 
